@@ -67,7 +67,7 @@ Durante el recorrido, aparecen **NPC Garzas** que otorgan **Turbo y Escudo tempo
 
 ---
 
-## 📹 Video demostración
+## 📹 Video demostrativo
 Puedes ver cómo funciona el juego en el siguiente enlace:
 
 👉 [Watch video on Google Drive](https://drive.google.com/file/d/1XpCEjJGPT-O9OCY4Mm3j2pdocBCaKMex/view?usp=drive_link)
