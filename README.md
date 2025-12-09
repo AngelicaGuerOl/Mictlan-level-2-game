@@ -72,7 +72,6 @@ Puedes ver cómo funciona el juego en el siguiente enlace:
 
 👉 [Watch video on Google Drive](https://drive.google.com/file/d/1XpCEjJGPT-O9OCY4Mm3j2pdocBCaKMex/view?usp=drive_link)
 
-*(Nota: Asegúrate de actualizar el enlace si es diferente al del proyecto anterior)*
 
 ---
 
