@@ -58,7 +58,7 @@ Durante el recorrido, aparecen **NPC Garzas** que otorgan **Turbo y Escudo tempo
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/AngelicaGuerOl/Mictlan-Trial.git](https://github.com/AngelicaGuerOl/Mictlan-Trial.git)
+    git clone https://github.com/AngelicaGuerOl/Mictlan-level-2-game.git
     ```
 2.  Abrir **Unity Hub**.
 3.  Dar clic en **Add** y seleccionar la carpeta del proyecto clonado.
@@ -67,7 +67,7 @@ Durante el recorrido, aparecen **NPC Garzas** que otorgan **Turbo y Escudo tempo
 
 ---
 
-## 📹 Demonstration Video
+## 📹 Video demostración
 Puedes ver cómo funciona el juego en el siguiente enlace:
 
 👉 [Watch video on Google Drive](https://drive.google.com/file/d/1XpCEjJGPT-O9OCY4Mm3j2pdocBCaKMex/view?usp=drive_link)
